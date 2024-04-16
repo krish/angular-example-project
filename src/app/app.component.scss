@@ -1,0 +1,25 @@
+.navbar {
+  background: #3b5998;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #f4f4f4;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.nav-link:hover {
+  background: #f4f4f4;
+  color: #070707;
+}
+
+.navbar-toggler {
+  background: #fff !important;
+}
+.message {
+  color: #f4f4f4;
+}
